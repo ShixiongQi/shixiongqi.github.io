@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California, Riverside, Ongoing
-* M.S. in Communication & Information Systems, Xidian University, 2018
-* B.S. in Electronic Information Engineering, Nanjing University of Posts and Telecommunications, 2015
+* Ph.D in Computer Science, \\
+*University of California, Riverside* \\
+**Ongoing**
+* M.S. in Communication & Information Systems, \\
+*Xidian University* \\
+**2018**
+* B.S. in Electronic Information Engineering, \\
+*Nanjing University of Posts and Telecommunications* \\
+**2015**
 
 Work experience
 ======
-* Summer 2022: Research Intern 
+* **Summer 2022 - Spring 2023**: 
+  * Research Intern 
   * Networking and Distributed Systems Lab, Hewlett Packard, Milpitas
-  * Mentor: Puneet Sharma, Diman Zad Tootaghaj
+  * Mentor: [Puneet Sharma](https://twitter.com/punwitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Diman Zad Tootaghaj](https://dimanzt.com/home.html)
 
-* Summer 2021: Research Intern,
+* **Summer 2021**: 
+  * Research Intern
   * Intel, Santa Clara
   * Mentor: Poornima Lalwaney
 
-* Winter 2020 - now: Research Assistant
+* **Winter 2020 - now**: 
+  * Research Assistant
   * University of California, Riverside
   * Supervisor: [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/)
   
