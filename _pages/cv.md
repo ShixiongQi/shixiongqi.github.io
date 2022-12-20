@@ -37,7 +37,22 @@ Work experience
   * Research Assistant
   * University of California, Riverside
   * Supervisor: [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/)
-  
+
+Honours and awards
+======
+* **National scholarship** \\
+  **2017**
+* **Excellent Student Award** \\
+  *Xidian University* \\
+  **2016**
+* **First-class scholarship** \\
+  *Xidian University* \\
+  **2015**
+* **Excellent Student Award** \\
+  *Nanjing University of Posts and Telecommunications* \\
+  **2013**
+
+
 <!-- Skills
 ======
 * Skill 1
