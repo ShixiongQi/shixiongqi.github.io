@@ -20,7 +20,8 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 * Ziteng Zeng, Leslie Monis, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **MiddleNet: A High-Performance, Lightweight,  Unified NFV and Middlebox Framework** \\
-*The 8th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2022).
+*The 8th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2022). \\
+<span style="color:#FF5733">*Selected as one of the top-scored papers and invited to provide an extended version to be submitted to the IEEE Transactions on Network and Service Management (TNSM).*</span>
 
 * Vivek Jain, Sourav Panda, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **Evolving to 6G: Improving the Cellular Core to lower control and data plane latency** \\
