@@ -38,6 +38,10 @@ Work experience
   * University of California, Riverside
   * Supervisor: [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/)
 
+Service
+======
+* **Reviewer: Parallel Computing (Elsevier)** \\
+
 Honours and awards
 ======
 * **National scholarship** \\
