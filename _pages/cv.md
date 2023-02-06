@@ -40,7 +40,7 @@ Work experience
 
 Service
 ======
-* **Reviewer: Parallel Computing (Elsevier)** \\
+* **Reviewer: Parallel Computing (Elsevier)**
 
 Honours and awards
 ======
