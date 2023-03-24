@@ -10,9 +10,13 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <!-- Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage. -->
 
 ## 2023
+* <span style="color:#5DADE2">**Shixiong Qi**</span>, Han-Sing Tsai, Yu-Sheng Liu, K. K. Ramakrishnan, Jyh-Cheng Chen\\
+**X-IO: A High-performance Unified I/O Interface using Lock-free Shared Memory Processing** \\
+Accepted for *The 9th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2023). \\
+
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Ziteng Zeng, Leslie Monis, and K. K. Ramakrishnan, \\
 **MiddleNet: A Unified, High-Performance NFV and Middlebox Framework with eBPF and DPDK** \\
-*Accepted to IEEE Transactions on Network and Service Management, 2023*
+*Accepted for IEEE Transactions on Network and Service Management, 2023*
 
 ## 2022
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
