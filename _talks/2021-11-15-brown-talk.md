@@ -1,9 +1,9 @@
 ---
 title: "Assessing Container Network Interface Plugins: Functionality, Performance, and Scalability"
 collection: talks
-type: "Invited talk at Brown University"
+type: "Invited talk"
 permalink: /talks/2021-11-15-brown-talk
-# venue: "ACM SoCC 2021"
+venue: "Invited talk at Brown University"
 date: 2021-11-15
 location: "Online"
 ---
