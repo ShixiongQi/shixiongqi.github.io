@@ -17,13 +17,13 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Ziteng Zeng, Leslie Monis, and K. K. Ramakrishnan, \\
 **MiddleNet: A Unified, High-Performance NFV and Middlebox Framework with eBPF and DPDK** \\
-*Accepted for IEEE Transactions on Network and Service Management, 2023*
+*Accepted for IEEE Transactions on Network and Service Management, 2023* \\
 [paper](https://arxiv.org/pdf/2303.04404.pdf)
 
 ## 2022
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: Extracting the Server from Serverless Computing!  High-Performance eBPF-based Event-driven, Shared-Memory Processing** \\
-*Proceedings of the 2022 Conference of the ACM Special Interest Group on Data Communication* (<span style="color:#FF5733">**SIGCOMM '22**</span>).
+*Proceedings of the 2022 Conference of the ACM Special Interest Group on Data Communication* (<span style="color:#FF5733">**SIGCOMM '22**</span>). \\
 [slides](./slides/SPRIGHT-sigcomm22-slides.pdf)
 
 * Vivek Jain, Hao-Tse Chu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Chia-An Lee, Hung-Cheng Chang, Cheng-Ying Hsieh, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
@@ -33,22 +33,23 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 * Ziteng Zeng, Leslie Monis, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **MiddleNet: A High-Performance, Lightweight,  Unified NFV and Middlebox Framework** \\
 *The 8th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2022). \\
-<span style="color:#FF5733">*Selected as one of the top-scored papers and invited to provide an extended version to be submitted to the IEEE Transactions on Network and Service Management (TNSM).*</span>
+<span style="color:#FF5733">*Selected as one of the top-scored papers and invited to provide an extended version to be submitted to the IEEE Transactions on Network and Service Management (TNSM).*</span> \\
 [slides](./slides/MiddleNet-NetSoft22-slides.pdf)
 
 * Vivek Jain, Sourav Panda, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **Evolving to 6G: Improving the Cellular Core to lower control and data plane latency** \\
-*1st International Conference on 6G Networking* (6GNet 2022) <span style="color:#FF5733">**Best Paper Award**</span>
+*1st International Conference on 6G Networking* (6GNet 2022) \\
+<span style="color:#FF5733">**Best Paper Award**</span>
 
 ## 2021
 * Viyom Mittal, <span style="color:#5DADE2">**Shixiong Qi**</span>, Ratnadeep Bhattacharya, Xiaosu Lyu, Junfeng Li, Sameer G Kulkarni, Dan Li, Jinho Hwang, K. K. Ramakrishnan, Timothy Wood, \\
 **Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds** \\
-*2021 ACM Symposium on Cloud Computing* (SoCC'21).
+*2021 ACM Symposium on Cloud Computing* (SoCC'21). \\
 [slides](./slides/Mu-SoCC'21-short-12min.pdf)
 
 * Ian-Chin Wang, <span style="color:#5DADE2">**Shixiong Qi**</span>, Elizabeth Liri and K. K. Ramakrishnan, \\
 **Towards a Proactive Lightweight Serverless Edge Cloud for Internet-of-Things Applications** \\
-*The 15th International Conference on Networking, Architecture, and Storage* (NAS 2021)
+*The 15th International Conference on Networking, Architecture, and Storage* (NAS 2021) \\
 [slides](./slides/NAS'21-v2.pdf)
 
 * Vivek Jain, <span style="color:#5DADE2">**Shixiong Qi**</span> and K. K. Ramakrishnan, \\
