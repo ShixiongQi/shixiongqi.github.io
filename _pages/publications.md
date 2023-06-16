@@ -13,7 +13,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Han-Sing Tsai, Yu-Sheng Liu, K. K. Ramakrishnan, Jyh-Cheng Chen\\
 **X-IO: A High-performance Unified I/O Interface using Lock-free Shared Memory Processing** \\
 *Accepted for The 9th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2023) \\
-[paper](./papers/xio-netsoft23.pdf)
+[paper](./papers/xio-netsoft23.pdf) [slides](./slides/X-IO-NetSoft23-conference-talk.pdf)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Ziteng Zeng, Leslie Monis, and K. K. Ramakrishnan, \\
 **MiddleNet: A Unified, High-Performance NFV and Middlebox Framework with eBPF and DPDK** \\
