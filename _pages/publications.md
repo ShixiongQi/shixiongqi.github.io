@@ -10,6 +10,10 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <!-- Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage. -->
 
 ## 2023
+* Yu-Sheng Liu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Po-Yi Lin, Han-Sing Tsai, K. K. Ramakrishnan, Jyh-Cheng Chen\\
+**L25GC+: An Improved, 3GPP-compliant 5G Core for Low-latency Control Plane Operations** \\
+*The 12th IEEE International Conference on Cloud Networking* (IEEE CloudNet 2023)
+
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Han-Sing Tsai, Yu-Sheng Liu, K. K. Ramakrishnan, Jyh-Cheng Chen\\
 **X-IO: A High-performance Unified I/O Interface using Lock-free Shared Memory Processing** \\
 *The 9th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2023) \\
