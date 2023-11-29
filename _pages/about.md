@@ -14,6 +14,7 @@ I am a PhD student under the supervision of [K. K. Ramakrishnan](https://kknetsy
 
 Recent News
 ------
+- We have evolved our high-performance 5GC solution to [L25GC+](./papers/l25gc+.pdf). This new version tackles many of the pain points we encountered while developing the predecessor [L25GC](https://dl.acm.org/doi/10.1145/3544216.3544267). I highly recommend you read the [paper](./papers/l25gc+.pdf) or check out the [code](https://github.com/nycu-ucr/L25GC-plus.git) of L25GC+.
 - (12/16/2022)
 
 <!-- Notes
