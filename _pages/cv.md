@@ -40,7 +40,8 @@ Work experience
 
 Service
 ======
-* **Reviewer: Parallel Computing (Elsevier)**
+* **Publicity Co-Chair for IEEE MASS'24**
+* **Reviewer: Parallel Computing (Elsevier), IET Networks, IEEE Network**
 
 Honours and awards
 ======
