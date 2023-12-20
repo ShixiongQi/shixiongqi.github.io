@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student under the supervision of [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/) in the Department of Computer Science at the University of California, Riverside. I work mainly on networked systems, with a special interest in system I/O. I have also done some work on resource management for cloud systems.
+I am a PhD student under the supervision of [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/) in the Department of Computer Science at the University of California, Riverside. 
+<!-- I work mainly on networked systems, with a special interest in system I/O. I have also done some work on resource management for cloud systems. -->
+My research interest encompasses a broad range of cloud and networked systems, going into the application interface with the operating system and network stack, and investigating the ways to enhance modern cloud-based applications. The common theme of my research is to make networked systems faster, more reliable, more efficient, and lately, more secure. Specifically, my work includes contributions to high-performance Network Function Virtualization (NFV), Middlebox, 5G and beyond mobile networks, and serverless computing. 
+<!-- I have co-authored papers in prestigious venues such as ACM SIGCOMM and ACM SoCC, and we received the Best Paper Award in IEEE 6GNet 2022. The paper that I co-authored with master’s students that I mentored was selected as one of the top papers of the IEEE NetSoft 2022. It was invited for publication (fast-track) as an extended version in the IEEE Transactions on Network and Service Management (TNSM). In addition, several of my efforts are open-sourced[1][2][4][5] to contribute back to the community and facilitate further innovation. -->
+
 
 Recent News
 ------
