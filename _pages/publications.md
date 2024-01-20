@@ -12,7 +12,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ## 2024
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: High-performance eBPF-based Event-driven, Shared-memory Processing for Serverless Computing** \\
-accepted for *IEEE/ACM Transactions On Networking, 2024* \\
+accepted for *IEEE/ACM Transactions On Networking, 2024*
 
 ## 2023
 * Yu-Sheng Liu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Po-Yi Lin, Han-Sing Tsai, K. K. Ramakrishnan, Jyh-Cheng Chen\\
