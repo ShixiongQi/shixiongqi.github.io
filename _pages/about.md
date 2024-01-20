@@ -16,6 +16,7 @@ My research interest encompasses a broad range of cloud and networked systems, g
 
 Recent News
 ------
-- (Nov. 2023) Invited to serve as IEEE MASS'24 Publicity Co-Chair. Please consider submitting!
+- (Jan. 2024) An extended version of SPRIGHT has been accepted to IEEE/ACM Transactions on Networking.
+- (Nov. 2023) Invited to serve as [IEEE MASS'24](https://sites.google.com/view/ieee-mass-2024) Publicity Co-Chair. Please consider submitting!
 - (Nov. 2023) We have evolved our high-performance 5GC solution to [L25GC+](./papers/l25gc+.pdf). This new version tackles many of the pain points we encountered while developing the predecessor [L25GC](https://dl.acm.org/doi/10.1145/3544216.3544267). I highly recommend you read the [paper](./papers/l25gc+.pdf) or check out the [code](https://github.com/nycu-ucr/L25GC-plus.git) of L25GC+.
 - (12/16/2022)
