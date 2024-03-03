@@ -16,7 +16,8 @@ accepted for *Seventh Conference on Machine Learning and Systems (MLSys 2024)* (
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: High-performance eBPF-based Event-driven, Shared-memory Processing for Serverless Computing** \\
-accepted for *IEEE/ACM Transactions On Networking, 2024*
+*IEEE/ACM Transactions On Networking, 2024* \\
+[paper](https://doi.org/10.1109/TNET.2024.3366561)
 
 ## 2023
 * Yu-Sheng Liu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Po-Yi Lin, Han-Sing Tsai, K. K. Ramakrishnan, Jyh-Cheng Chen\\
