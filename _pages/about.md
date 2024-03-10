@@ -16,6 +16,7 @@ My research interest encompasses a broad range of cloud and networked systems, g
 
 Recent News
 ------
+- (Mar. 2024) L26GC has been accepted to IEEE Internet Computing.
 - (Feb. 2024) LIFL has been accepted to MLSys 2024!
 - (Feb. 2024) Received the Dissertation Completion Fellowship Award. Thanks UCR!
 - (Jan. 2024) An extended version of SPRIGHT has been accepted to IEEE/ACM Transactions on Networking.
