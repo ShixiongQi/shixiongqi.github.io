@@ -9,6 +9,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 <!-- \begin{rSection}{Teaching and Mentoring Experience} -->
+
 Teaching
 ======
 * Teaching Assistant, CS203, Advanced Computer Architecture, Fall 2019, Instructor: Hung-Wei Tseng \\
