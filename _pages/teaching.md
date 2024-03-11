@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Mentoring Experience"
 permalink: /teaching/
 author_profile: true
 
@@ -8,14 +8,14 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-<!-- Teaching -->
-<!-- ====== -->
-* Teaching Assistant, CS203, Advanced Computer Architecture, Fall 2019, Instructor: Hung-Wei Tseng \\
-* Teaching Assistant and Lab instructor, CS164, Computer Networks, Fall 2019, Instructor: K. K. Ramakrishnan \\
-* Teaching Assistant} and Lab instructor, CS164, Computer Networks, Fall 2020, Instructor: K. K. Ramakrishnan \\
-* Teaching Assistant, CS179i, Project in Computer Science (Networks), Spring 2020, Instructor: K. K. Ramakrishnan \\
-* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2021, Instructor: K. K. Ramakrishnan \\
-* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2022, Instructor: K. K. Ramakrishnan \\
+Teaching
+======
+* Teaching Assistant, CS203, Advanced Computer Architecture, Fall 2019, Instructor: Hung-Wei Tseng
+* Teaching Assistant and Lab instructor, CS164, Computer Networks, Fall 2019, Instructor: K. K. Ramakrishnan
+* Teaching Assistant and Lab instructor, CS164, Computer Networks, Fall 2020, Instructor: K. K. Ramakrishnan
+* Teaching Assistant, CS179i, Project in Computer Science (Networks), Spring 2020, Instructor: K. K. Ramakrishnan
+* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2021, Instructor: K. K. Ramakrishnan
+* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2022, Instructor: K. K. Ramakrishnan
 * Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2023, Instructor: K. K. Ramakrishnan
 
 
