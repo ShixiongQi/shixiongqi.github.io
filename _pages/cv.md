@@ -43,7 +43,7 @@ Service
 * **Publicity Co-Chair for IEEE MASS'24**
 * **Reviewer: Parallel Computing (Elsevier), IET Networks, IEEE Network**
 
-Honours and awards
+<!-- Honours and awards
 ======
 * **National scholarship** \\
   **2017**
@@ -55,7 +55,7 @@ Honours and awards
   **2015**
 * **Excellent Student Award** \\
   *Nanjing University of Posts and Telecommunications* \\
-  **2013**
+  **2013** -->
 
 
 <!-- Skills
