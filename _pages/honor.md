@@ -29,5 +29,5 @@ author_profile: true
     *Nanjing University of Posts and Telecommunications*
 * **First Prize in Jiangsu Province**, 2013 \\
     *The National Mathematical Modeling Contest*
-* **Second-class scholarship** \\
-    *Nanjing University of Posts and Telecommunications* **2012**, **2013**, **2014**
+* **Second-class scholarship**, 2012, 2013, 2014 \\
+    *Nanjing University of Posts and Telecommunications*
