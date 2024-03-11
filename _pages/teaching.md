@@ -8,10 +8,8 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-<!-- \begin{rSection}{Teaching and Mentoring Experience} -->
-
-Teaching
-======
+<!-- Teaching -->
+<!-- ====== -->
 * Teaching Assistant, CS203, Advanced Computer Architecture, Fall 2019, Instructor: Hung-Wei Tseng \\
 * Teaching Assistant and Lab instructor, CS164, Computer Networks, Fall 2019, Instructor: K. K. Ramakrishnan \\
 * Teaching Assistant} and Lab instructor, CS164, Computer Networks, Fall 2020, Instructor: K. K. Ramakrishnan \\
