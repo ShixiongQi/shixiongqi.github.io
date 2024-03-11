@@ -9,10 +9,10 @@ author_profile: true
     *University of California, Riverside*
 * **Dissertation Year Program Fellowship**, 2023 \\
     *University of California, Riverside*
-* **IEEE CloudNet 2023 student travel grant**, 2023 \\
-* **ACM SIGCOMM 2022 student travel grant**, 2022 \\
-* **IEEE ICNP 2022 student travel grant**, 2022 \\
-* **IEEE 6GNet 2022 best paper award**, 2022 \\
+* **IEEE CloudNet 2023 student travel grant**, 2023
+* **ACM SIGCOMM 2022 student travel grant**, 2022
+* **IEEE ICNP 2022 student travel grant**, 2022
+* **IEEE 6GNet 2022 best paper award**, 2022
 * **Dean's Distinguished Fellowship**, 2018 \\
     *University of California, Riverside*
 * **National scholarship**, 2017 \\
