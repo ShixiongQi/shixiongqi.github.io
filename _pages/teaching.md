@@ -6,84 +6,29 @@ author_profile: true
 
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-Education
+<!-- \begin{rSection}{Teaching and Mentoring Experience} -->
+Teaching
 ======
-* Ph.D in Computer Science, \\
-*University of California, Riverside* \\
-**Ongoing**
-* M.S. in Communication & Information Systems, \\
-*Xidian University* \\
-**2018**
-* B.S. in Electronic Information Engineering, \\
-*Nanjing University of Posts and Telecommunications* \\
-**2015**
-
-Work experience
-======
-* **Summer 2022 - Spring 2023**: 
-  * Research Intern 
-  * Networking and Distributed Systems Lab, Hewlett Packard, Milpitas
-  * Mentor: [Puneet Sharma](https://twitter.com/punwitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Diman Zad Tootaghaj](https://dimanzt.com/home.html)
-
-* **Summer 2021**: 
-  * Research Intern
-  * Intel, Santa Clara
-  * Mentor: Poornima Lalwaney
-
-* **Winter 2020 - now**: 
-  * Research Assistant
-  * University of California, Riverside
-  * Supervisor: [K. K. Ramakrishnan](https://kknetsyslab.cs.ucr.edu/)
-
-Service
-======
-* **Publicity Co-Chair for IEEE MASS'24**
-* **Reviewer: Parallel Computing (Elsevier), IET Networks, IEEE Network**
-
-Honours and awards
-======
-* **National scholarship** \\
-  **2017**
-* **Excellent Student Award** \\
-  *Xidian University* \\
-  **2016**
-* **First-class scholarship** \\
-  *Xidian University* \\
-  **2015**
-* **Excellent Student Award** \\
-  *Nanjing University of Posts and Telecommunications* \\
-  **2013**
+* Teaching Assistant, CS203, Advanced Computer Architecture, Fall 2019, Instructor: Hung-Wei Tseng \\
+* Teaching Assistant and Lab instructor, CS164, Computer Networks, Fall 2019, Instructor: K. K. Ramakrishnan \\
+* Teaching Assistant} and Lab instructor, CS164, Computer Networks, Fall 2020, Instructor: K. K. Ramakrishnan \\
+* Teaching Assistant, CS179i, Project in Computer Science (Networks), Spring 2020, Instructor: K. K. Ramakrishnan \\
+* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2021, Instructor: K. K. Ramakrishnan \\
+* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2022, Instructor: K. K. Ramakrishnan \\
+* Student Mentor, CS208, Cloud Computing and Cloud Networking, Winter 2023, Instructor: K. K. Ramakrishnan
 
 
-<!-- Skills
+Mentored Students (with publications or master's project)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Ziteng Zeng, master student at UCR, 2022, now at Google.
+* Leslie Monis, master student at UCR, 2022, now at Nvidia.
+* Gaurav Gadewar, master student at UCR, 2023, now at Esri.
+* Abhishek Sharma, master student at UCR, 2023, now at tZERO.
+* Bharath Nagendra, master student at UCR, 2023, now at Apple.
 
-<!-- Publications
+Mentored Students (with course project)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+*  **Undergraduate**: Sergio Inzunza, Albert Dang, An Pho, Dumitru Chiriac, Alex Cui, Andrew Nguyen
+* **Graduate**: Ted Kim, Janine Huang, Arun Venkatesh, Rucha Kolhatkar, Venkata Vamsi K. Mupparaju, Nadia Saba, Varun Sapre, Srinivasa Biradavolu, Akshay Gulabrao, Wyland Lau, Anjana Venkatesh, Sanchit Goel, Douglas Adjei-Frempah, Shruti Jawale, Lawrence Wang, Mahaboob Ali A. Mohammad
