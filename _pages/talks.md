@@ -7,6 +7,10 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
+* **L25GC+: An Improved, 3GPP-compliant 5G Core for Low-latency Control Plane Operations** \\
+    November, 2023 \\
+    *Conference talk, IEEE CloudNet 2023*
+
 * **SPRIGHT: Extracting the Server from Serverless Computing! High-performance eBPF-based Event-driven, Shared-memory Processing** \\
     November, 2022 \\
     *Invited talk at Vmware*
