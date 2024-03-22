@@ -16,7 +16,7 @@ author_profile: true
 * **Dean's Distinguished Fellowship**, 2018 \\
     *University of California, Riverside*
 * **National scholarship**, 2017 \\
-    *Xidian University* (Top 3\% of 700+)
+    *Xidian University* (Top 3% of 700+)
 * **Second-class scholarship**, 2016 \\
     *Xidian Univertsity*
 * **Excellent Student Award**, 2016 \\

@@ -12,7 +12,8 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ## 2024
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
 **L26GC: Evolving the Low Latency Core for Future Cellular Networks** \\
-accepted for *IEEE Internet Computing*
+*IEEE Internet Computing, 2024* \\
+[paper](https://doi.org/10.1109/MIC.2024.3376655)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Myungjin Lee, \\
 **LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning** \\
