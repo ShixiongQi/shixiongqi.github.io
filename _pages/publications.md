@@ -17,8 +17,8 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Myungjin Lee, \\
 **LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning** \\
-*Seventh Conference on Machine Learning and Systems (MLSys 2024)*
-[paper](./papers/lifl-mlsys24.pdf) 
+*Seventh Conference on Machine Learning and Systems (MLSys 2024)* \\
+[paper](./papers/lifl-mlsys24.pdf) [slides](./slides/mlsys-talk-conf.pptx)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: High-performance eBPF-based Event-driven, Shared-memory Processing for Serverless Computing** \\
