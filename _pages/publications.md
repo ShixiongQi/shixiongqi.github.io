@@ -10,6 +10,10 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 <!-- Click on these icons for the paper <img src="images/file-cloud-download.png"> to download pdf, or <img src="images/media.png"> for media coverage. -->
 
 ## 2024
+* Anvaya B. Narappa, Federico Parola, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
+**Z-stack: A High-performance DPDK-based Zero-copy TCP/IP Protocol Stack** \\
+*The 30th IEEE International Symposium on Local and Metropolitan Area Networks* (LANMAN 2024)
+
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
 **L26GC: Evolving the Low Latency Core for Future Cellular Networks** \\
 *IEEE Internet Computing, 2024* \\
