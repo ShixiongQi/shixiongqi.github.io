@@ -15,6 +15,8 @@ My research interest encompasses a broad range of cloud and networked systems, g
 
 🔊 <span style="color:#0033A0"> **I will be joining the [Department of Computer Science](https://www.engr.uky.edu/research-faculty/departments/computer-science) at the [University of Kentucky](https://www.uky.edu/) in Fall 2024 as a tenure-track Assistant Professor.**</span>
 
+🔊 <span style="color:#0033A0"> [**Current openings:**] I have a few openings starting in Spring 2025 or Fall 2025. Please visit Openings for more information. </span>
+
 <!-- [PhD Openings] I am seeking PhD students starting in Spring 2025 or Fall 2025. More Details can be found in Openings. Please contact me if you have an interest. -->
 
 Recent News
