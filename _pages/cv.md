@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Up-to-date CV](./cv/qi_resume.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, \\
