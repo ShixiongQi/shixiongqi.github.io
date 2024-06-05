@@ -7,6 +7,10 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
+* **LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning** \\
+    May, 2024 \\
+    *Conference talk, MLSys 2024*
+
 * **L25GC+: An Improved, 3GPP-compliant 5G Core for Low-latency Control Plane Operations** \\
     November, 2023 \\
     *Conference talk, IEEE CloudNet 2023*
