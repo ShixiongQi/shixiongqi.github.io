@@ -12,56 +12,56 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 ## 2024
 * Anvaya B. Narappa, Federico Parola, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **Z-stack: A High-performance DPDK-based Zero-copy TCP/IP Protocol Stack** \\
-*The 30th IEEE International Symposium on Local and Metropolitan Area Networks* (LANMAN 2024)
-[code](https://github.com/anvayabn/Z-stack.git)
+*The 30th IEEE International Symposium on Local and Metropolitan Area Networks* (LANMAN 2024)\\
+⚙️[code](https://github.com/anvayabn/Z-stack.git)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
 **L26GC: Evolving the Low Latency Core for Future Cellular Networks** \\
 *IEEE Internet Computing, 2024* \\
-[paper](https://doi.org/10.1109/MIC.2024.3376655)
+📄[paper](https://doi.org/10.1109/MIC.2024.3376655)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Myungjin Lee, \\
 **LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning** \\
 *Seventh Conference on Machine Learning and Systems (MLSys 2024)* \\
-[paper](https://arxiv.org/abs/2405.10968) [slides](./slides/mlsys-talk-conf.pptx) [code](https://github.com/cisco-open/flame.git)
+📄[paper](https://arxiv.org/abs/2405.10968) 📙[slides](./slides/mlsys-talk-conf.pptx) ⚙️[code](https://github.com/cisco-open/flame.git)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: High-performance eBPF-based Event-driven, Shared-memory Processing for Serverless Computing** \\
 *IEEE/ACM Transactions On Networking, 2024* \\
-[paper](https://doi.org/10.1109/TNET.2024.3366561) [code](https://github.com/ucr-serverless/spright.git)
+📄[paper](https://doi.org/10.1109/TNET.2024.3366561) ⚙️[code](https://github.com/ucr-serverless/spright.git)
 
 ## 2023
 * Yu-Sheng Liu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Po-Yi Lin, Han-Sing Tsai, K. K. Ramakrishnan, Jyh-Cheng Chen\\
 **L25GC+: An Improved, 3GPP-compliant 5G Core for Low-latency Control Plane Operations** \\
 *The 12th IEEE International Conference on Cloud Networking* (IEEE CloudNet 2023) \\
-[paper](./papers/l25gc+.pdf) [slides](./slides/L25GC+_slides.pdf) [code](https://github.com/nycu-ucr/L25GC-plus.git)
+📄[paper](./papers/l25gc+.pdf) 📙[slides](./slides/L25GC+_slides.pdf) ⚙️[code](https://github.com/nycu-ucr/L25GC-plus.git)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Han-Sing Tsai, Yu-Sheng Liu, K. K. Ramakrishnan, Jyh-Cheng Chen\\
 **X-IO: A High-performance Unified I/O Interface using Lock-free Shared Memory Processing** \\
 *The 9th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2023) \\
-[paper](./papers/xio-netsoft23.pdf) [slides](./slides/X-IO-NetSoft23-conference-talk.pdf) [code](https://github.com/nycu-ucr/xio.git)
+📄[paper](./papers/xio-netsoft23.pdf) 📙[slides](./slides/X-IO-NetSoft23-conference-talk.pdf) ⚙️[code](https://github.com/nycu-ucr/xio.git)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Ziteng Zeng, Leslie Monis, and K. K. Ramakrishnan, \\
 **MiddleNet: A Unified, High-Performance NFV and Middlebox Framework with eBPF and DPDK** \\
 *IEEE Transactions on Network and Service Management, 2023* \\
-[paper](https://arxiv.org/pdf/2303.04404.pdf)
+📄[paper](https://arxiv.org/pdf/2303.04404.pdf)
 
 ## 2022
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, Leslie Monis, Ziteng Zeng, Ian-chin Wang, K. K. Ramakrishnan, \\
 **SPRIGHT: Extracting the Server from Serverless Computing!  High-Performance eBPF-based Event-driven, Shared-Memory Processing** \\
 *Proceedings of the 2022 Conference of the ACM Special Interest Group on Data Communication* (<span style="color:#FF5733">**SIGCOMM '22**</span>). \\
-[slides](./slides/SPRIGHT-sigcomm22-slides.pdf) [code](https://github.com/ucr-serverless/spright.git)
+📙[slides](./slides/SPRIGHT-sigcomm22-slides.pdf) ⚙️[code](https://github.com/ucr-serverless/spright.git)
 
 * Vivek Jain, Hao-Tse Chu, <span style="color:#5DADE2">**Shixiong Qi**</span>, Chia-An Lee, Hung-Cheng Chang, Cheng-Ying Hsieh, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
 **L25GC: A Low Latency 5G Core Network based on High-Performance NFV Platforms** \\
 *Proceedings of the 2022 Conference of the ACM Special Interest Group on Data Communication* (<span style="color:#FF5733">**SIGCOMM '22**</span>).\\
-[code](https://github.com/nycu-ucr/L25GC.git)
+⚙️[code](https://github.com/nycu-ucr/L25GC.git)
 
 * Ziteng Zeng, Leslie Monis, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **MiddleNet: A High-Performance, Lightweight,  Unified NFV and Middlebox Framework** \\
 *The 8th IEEE International Conference on Network Softwarization* (IEEE NetSoft 2022). \\
 <span style="color:#FF5733">*Selected as one of the top-scored papers and invited to provide an extended version to be submitted to the IEEE Transactions on Network and Service Management (TNSM).*</span> \\
-[slides](./slides/MiddleNet-NetSoft22-slides.pdf)
+📙[slides](./slides/MiddleNet-NetSoft22-slides.pdf)
 
 * Vivek Jain, Sourav Panda, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **Evolving to 6G: Improving the Cellular Core to lower control and data plane latency** \\
@@ -72,12 +72,12 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 * Viyom Mittal, <span style="color:#5DADE2">**Shixiong Qi**</span>, Ratnadeep Bhattacharya, Xiaosu Lyu, Junfeng Li, Sameer G Kulkarni, Dan Li, Jinho Hwang, K. K. Ramakrishnan, Timothy Wood, \\
 **Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds** \\
 *2021 ACM Symposium on Cloud Computing* (SoCC'21). \\
-[slides](./slides/Mu-SoCC'21-short-12min.pdf)
+📙[slides](./slides/Mu-SoCC'21-short-12min.pdf)
 
 * Ian-Chin Wang, <span style="color:#5DADE2">**Shixiong Qi**</span>, Elizabeth Liri and K. K. Ramakrishnan, \\
 **Towards a Proactive Lightweight Serverless Edge Cloud for Internet-of-Things Applications** \\
 *The 15th International Conference on Networking, Architecture, and Storage* (NAS 2021) \\
-[slides](./slides/NAS'21-v2.pdf)
+📙[slides](./slides/NAS'21-v2.pdf)
 
 * Vivek Jain, <span style="color:#5DADE2">**Shixiong Qi**</span> and K. K. Ramakrishnan, \\
 **Fast Function Instantiation with Alternate Virtualization Approaches** \\
