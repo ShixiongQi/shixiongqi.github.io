@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Up-to-date CV](./cv/qi_resume.pdf)
+[Up-to-date CV](./cv/qi_resume.pdf) (06/04/2024)
 
 Education
 ======
