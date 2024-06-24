@@ -13,7 +13,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 * Anvaya B. Narappa, Federico Parola, <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, \\
 **Z-stack: A High-performance DPDK-based Zero-copy TCP/IP Protocol Stack** \\
 *The 30th IEEE International Symposium on Local and Metropolitan Area Networks* (LANMAN 2024)\\
-⚙️[code](https://github.com/anvayabn/Z-stack.git)
+📄[paper](./papers/z-stack.pdf) ⚙️[code](https://github.com/anvayabn/Z-stack.git)
 
 * <span style="color:#5DADE2">**Shixiong Qi**</span>, K. K. Ramakrishnan, Jyh-Cheng Chen, \\
 **L26GC: Evolving the Low Latency Core for Future Cellular Networks** \\
